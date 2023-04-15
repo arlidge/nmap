@@ -1,4 +1,4 @@
-![](https://github.com/arlidge/Dorky/blob/main/dorky_logo.png)
+![](https://github.com/arlidge/nmap/blob/main/nmap_logo.png)
 
 # nmap
 Bash command line interface for using nmap
